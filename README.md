@@ -1,13 +1,34 @@
-# jupyter_learnings
-Daily Jupyter notebooks for learning Python &amp; Data Science
-Welcome to my learning repository where I document my journey in Data Analysis using Jupyter Notebooks. This space includes hands-on projects, practice notebooks, and SQL queries — all aimed at improving my data exploration and storytelling skills.
-🧠 What You’ll Find Here
-🔍 Exploratory Data Analysis (EDA)
+# 📊 Data Analysis with Jupyter Notebooks
 
-🐼 Pandas and NumPy operations
+Welcome! This repository contains my learning journey in **data analysis** using Jupyter Notebooks.
 
-📈 Visualizations using Matplotlib & Seaborn
+---
 
-📊 SQL queries for structured data
+### 🧠 What’s Inside
 
-💡 Insights, patterns, and data storytelling
+- Hands-on data exploration using Pandas
+- Visualization with Matplotlib and Seaborn
+- Real-world datasets
+- Cleaned, explained notebooks with step-by-step logic
+
+---
+
+### 📌 Current Notebooks
+
+– My latest notebook where I explore and analyze data using Python.
+Day 1 Strings.ipynb
+Day 2 List and Tuples.ipynb
+
+---
+
+### 🚀 Why I Made This Repo
+
+To practice data analysis, track my progress, and share useful notebooks that others can learn from. Learning in public helps me stay consistent and improve.
+
+---
+
+### ✅ How to Use
+
+Feel free to browse, download, or run the notebook in your own environment (Jupyter, Colab, etc.). Feedback and suggestions are welcome!
+
+---
