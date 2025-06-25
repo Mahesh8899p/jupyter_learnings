@@ -15,11 +15,7 @@ Welcome! This repository contains my learning journey in **data analysis** using
 
 ### 📌 Current Notebooks
 
-– My latest notebook where I explore and analyze data using Python.
-Day 1 Strings.ipynb
-Day 2 List and Tuples.ipynb
-
----
+– My latest notebooks where I explore and analyze data using Python.
 
 ### 🚀 Why I Made This Repo
 
